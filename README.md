@@ -1,3 +1,5 @@
 # Simple-API-test
 
-Basic API that gets information about the products in the JSON and display it in the route /API
+Basic API that gets information about the products in the JSON.
+
+HTML Templates created by Jonas Schmedtmann in the Node.js Course.
